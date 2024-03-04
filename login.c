@@ -2,22 +2,6 @@
 #include <stdlib.h>
 #include <string.h>
 
-//procedure enkrip caesar ciper
-void enkripsi(char *kata, int kunci) {
-    int i;
-    for (i = 0; kata[i] != '\0'; i++) {
-        if (kata[i] >= 'a' && kata[i] <= 'z') {
-            kata[i] = 'a' + (kata[i] - 'a' + kunci) % 26;
-        } else if (kata[i] >= 'A' && kata[i] <= 'Z') {
-            kata[i] = 'A' + (kata[i] - 'A' + kunci) % 26;
-        }
-    }
-}
-
-//procedure deskrip
-void deskripsi(char *kata, int kunci) {
-    enkripsi(kata, 26 - kunci);
-}
 
 //procedure register
 void register_user(){
@@ -27,10 +11,6 @@ void register_user(){
 	scanf("%s", username_user);
 	printf("Masukkan password : ");
 	scanf("%s", password_user);
-	
-	// Enkripsi
-    enkripsi(username_user, 5);
-    enkripsi(password_user, 5);
 	
 	FILE *fp = fopen("datauser.txt", "a");
 	if (fp != NULL){
@@ -48,8 +28,6 @@ int login(char *username, char *password){
 	FILE *fp = fopen("datauser.txt", "r");
 	if (fp != NULL){
 		while(fscanf(fp, "%s %s \n", username_fp, password_fp) != EOF){
-			deskripsi(username_fp, 5);
-			deskripsi(password_fp, 5);
 			if (strcmp(username, username_fp) == 0 && strcmp(password, password_fp) == 0){
 				fclose(fp);
 				return 1;
