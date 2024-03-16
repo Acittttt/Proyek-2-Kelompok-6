@@ -14,6 +14,7 @@ Pembagian Tugas :
 3. Halaman User ( Yudis & Naomi )
 
 Pengerjaan Tugas :
+
 Aisyah Naomi Kazzayara :
 1. Pembuatan menu profil pada user.
 2. Pembuatan interface user
