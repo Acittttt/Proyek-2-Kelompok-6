@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1710574529 source:d:\onedrive - politeknik negeri bandung\2024\kuliah\projects\proyek 2\proyek-2-kelompok-6\adtvoting1\adtvoting\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<string.h>
+
+1710573342 d:\onedrive - politeknik negeri bandung\2024\kuliah\projects\proyek 2\proyek-2-kelompok-6\adtvoting1\adtvoting\header.h
+
+1710573907 source:d:\onedrive - politeknik negeri bandung\2024\kuliah\projects\proyek 2\proyek-2-kelompok-6\adtvoting1\adtvoting\badmin.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1710572522 source:d:\onedrive - politeknik negeri bandung\2024\kuliah\projects\proyek 2\proyek-2-kelompok-6\adtvoting1\adtvoting\buser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1710573656 source:d:\onedrive - politeknik negeri bandung\2024\kuliah\projects\proyek 2\proyek-2-kelompok-6\adtvoting1\adtvoting\blogin.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
