@@ -35,7 +35,7 @@ Naufal Hidayatul Fikri :
 
 Rasyiid Raafi Shaban :
 1. Pembuatan interface login admin. 
-2. Pembuatan enkripsi dekripsi pada login admin.
+2. Pembuatan enkripsi dekripsi pada login admin yang kemudian dirubah menjadi data permanen yang dilakukan pada bagian syntax.
 3. Penggabungan halaman login admin dengan halaman login user.
 4. Melakukan penyesuaian ADT program keseluruhan.
 
