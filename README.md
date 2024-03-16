@@ -25,32 +25,32 @@ Ariq Fakhri Indrawan :
 2. Pembuatan opsi melihat hasil voting.
 3. Melakukan dekripsi hasil voting.
 4. Menambahkan fitur back pada admin.
-5. Melaukan penyesuaian ADT program keseluruhan.
+5. Melakukan penyesuaian ADT program keseluruhan.
 
 Naufal Hidayatul Fikri :
 1. Pembuatan interface login user.
 2. Pembuatan enkripsi dekripsi pada login user.
 3. Melakukan penggabungan keseluruhan modul.
-4. Melaukan penyesuaian ADT program keseluruhan.
+4. Melakukan penyesuaian ADT program keseluruhan.
 
 Rasyiid Raafi Shaban :
 1. Pembuatan interface login admin. 
 2. Pembuatan enkripsi dekripsi pada login admin.
 3. Penggabungan halaman login admin dengan halaman login user.
-4. Melaukan penyesuaian ADT program keseluruhan.
+4. Melakukan penyesuaian ADT program keseluruhan.
 
 Rifqi Yudistira Sumantri :
 1. Pembuatan interface user.
 2. Pembuatan menu untuk melakukan voting.
 3. Enkripsi hasil voting yang disimpan dalam file.
 4. Melakukan validasi untuk user hanya melakukan 1x voting.
-5. Melaukan penyesuaian ADT program keseluruhan.
+5. Melakukan penyesuaian ADT program keseluruhan.
 
 Timothy Elroy :
 1. Pembuatan fitur deksripsi untuk hasil voting user.
 2. Pembuatan fitur menyimpan data hasil voting user yang sudah terdekripsi ke dalam file.
 3. Pembuatan fitur untuk menghitung jumlah hasil voting user.
-4. Melaukan penyesuaian ADT program keseluruhan.
+4. Melakukan penyesuaian ADT program keseluruhan.
 
 Lesson Learned :
 1. Penggunaan GitHub untuk menyimpan pekerjaan yang telah dilakukan, dan menggunakan fitur pull dan push untuk membantu pembuatan aplikasi ini.
