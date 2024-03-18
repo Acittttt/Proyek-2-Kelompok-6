@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="default" />
+	<File name="main.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="781" topLine="2" />
+		</Cursor>
+	</File>
+	<File name="header.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1089" topLine="29" />
+		</Cursor>
+	</File>
+	<File name="BAdmin.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="411" topLine="18" />
+		</Cursor>
+	</File>
+	<File name="BLogin.c" open="1" top="1" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3424" topLine="166" />
+		</Cursor>
+	</File>
+	<File name="BUser.c" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3864" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
+[Editors]
+Order=0,1,2,3,4
+Focused=0
+[Editor_0]
+CursorCol=11
+CursorRow=10
+TopLine=7
+LeftChar=1
+[Editor_1]
+CursorCol=1
+CursorRow=1
+TopLine=19
+LeftChar=1
+[Editor_2]
+CursorCol=1
+CursorRow=200
+TopLine=195
+LeftChar=1
+[Editor_3]
+CursorCol=1
+CursorRow=1
+TopLine=1
+LeftChar=1
+[Editor_4]
+CursorCol=14
+CursorRow=6
+TopLine=1
+LeftChar=1
